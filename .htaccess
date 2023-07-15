@@ -1,0 +1,4 @@
+
+Redirect 301 /portfolio/ https://lameesfullstack.lovestoblog.com/portfolio-details.html
+Redirect 404 /portfolio/ https://lameesfullstack.lovestoblog.com/portfolio-details.html
+class="nav-link"
