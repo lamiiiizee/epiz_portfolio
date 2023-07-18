@@ -935,6 +935,9 @@ section .container {
   top: 0;
   bottom: 0;
   overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .portfolio-details .container {
